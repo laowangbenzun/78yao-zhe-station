@@ -21,12 +21,12 @@
 // ** Database settings - You can get this info from your web host ** //
 /** The name of the database for WordPress */
 define( 'DB_NAME', '154_37_215_69' );
+/此处为数据库名/
+/** Database username此处为数据库用户名 */
+define( 'DB_USER', '154_37_215_69此处为数据库用户名' );
 
-/** Database username */
-define( 'DB_USER', '154_37_215_69' );
-
-/** Database password */
-define( 'DB_PASSWORD', 'jkdMCNRZXbAKyPtW' );
+/** Database password 此处为数据库密码*/
+define( 'DB_PASSWORD', 'jkdMCNRZXbAKyPtW此处为数据库密码' );
 
 /** Database hostname */
 define( 'DB_HOST', 'localhost' );
